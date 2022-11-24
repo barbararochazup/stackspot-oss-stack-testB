@@ -5,7 +5,7 @@ category: Barata # Ref: https://docs.stackspot.com/latest/docs/creators-guide/ya
 compatibility: # Put a list of technologies compatible with the stack
   - Barata
 technologies: # Ref: https://docs.stackspot.com/latest/docs/creators-guide/yaml/#technologies 
-  - Api 
+  - Barata 
 about: docs/about.md
 use-cases:
   - title: Use Case Title
